@@ -14,9 +14,14 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 #### Published Projects:
 
 * **Exploratory Data Analysis:**
+
 [Analysis of CO2 emission on the planet](https://github.com/vitorbeltrao/CO2Emissions)
+
 * **Machine Learning - Supervised Learning:**
+
+
 * **Machine Learning - Unsupervised Learning:**
+
 * **Machine Learning - Unsupervised Learning:**
 
 
