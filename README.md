@@ -4,7 +4,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 - 🔭 I’m currently working at "QDOIS - Data Intelligence". It is a data technology consulting company.
 - 💬 Let's talk about Data Science, Statistics, Python and Machine Learning :grinning:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/), [Medium](https://www.medium.com) and [Instagram](https://www.instagram.com/pandas_couple/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/), [Medium](https://pandascouple.medium.com/) and [Instagram](https://www.instagram.com/pandas_couple/).
 ***
 
 #### Skills
