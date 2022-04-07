@@ -23,7 +23,10 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 **Machine Learning - Unsupervised Learning:**
 
-**Machine Learning - Unsupervised Learning:**
+* [Clustering Customers](https://github.com/vitorbeltrao/Clustering_Customers)
+
+**Deep Learning:**
+
 
 
 
