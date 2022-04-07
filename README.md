@@ -20,6 +20,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 **Machine Learning - Supervised Learning:**
 
 * [Medical Insurance Forecast](https://github.com/vitorbeltrao/Medical_Insurance_Forecast)
+* [NLP - Spam Classifier](https://github.com/vitorbeltrao/NLP_Spam_Classifier)
 
 **Machine Learning - Unsupervised Learning:**
 
