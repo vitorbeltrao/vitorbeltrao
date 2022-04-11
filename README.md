@@ -16,7 +16,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 **Exploratory Data Analysis:**
 
 * [Analysis of CO2 emission on the planet](https://github.com/vitorbeltrao/CO2Emissions)
-* [Analysis of Military Expenditure](https://github.com/vitorbeltrao/CO2Emissions)
+* [Analysis of Military Expenditure](https://github.com/vitorbeltrao/MilitaryExpenditure)
 
 **Machine Learning - Supervised Learning:**
 
