@@ -31,6 +31,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 **Deep Learning:**
 
 * [Time Series - Passengers Forecast](https://github.com/vitorbeltrao/TimeSeries_Passenger_Forecast)
+* [Image Classifier](https://github.com/vitorbeltrao/Image-Classifier)
 
 
 
