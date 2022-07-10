@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last months studying Data Science and Machine Learning, I am developing a critical thinking and problem-solving skills.
+I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years studying Data Science and Machine Learning, I am developing a critical thinking and problem-solving skills.
 
 - 🔭 I’m currently working at "QDOIS - Data Intelligence". It is a data technology consulting company.
 - 💬 Let's talk about Data Science, Statistics, Python and Machine Learning :grinning:
