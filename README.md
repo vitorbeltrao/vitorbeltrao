@@ -24,7 +24,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 * [Medical Insurance Forecast](https://github.com/vitorbeltrao/Medical_Insurance_Forecast)
 * [NLP - Spam Classifier](https://github.com/vitorbeltrao/NLP_Spam_Classifier)
 * [NLP - Disaster Response Classifier](https://github.com/vitorbeltrao/NLP-Disaster-Response)
-* [Smarter Pricing for Airbnb](https://github.com/vitorbeltrao/NLP-Disaster-Response)
+* [Smarter Pricing for Airbnb](https://github.com/vitorbeltrao/Smarter-Pricing-Airbnb)
 
 **Machine Learning - Unsupervised Learning:**
 
