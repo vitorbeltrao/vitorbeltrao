@@ -9,7 +9,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 #### Skills
 
-**I have a strong background in:** Statistics, Python, SQL, DataViz, Machine Learning and Deep Learning.
+**I have a strong background in:** Statistics, Python, SQL, DataViz, Machine Learning, Deep Learning and MLOps.
 ***
 #### Published Projects:
 
