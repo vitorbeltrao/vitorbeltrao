@@ -2,7 +2,7 @@
 
 I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years studying Data Science and Machine Learning, I am developing a critical thinking and problem-solving skills.
 
-- 🔭 I’m currently working at "QDOIS - Data Intelligence". It is a data technology consulting company.
+- 🔭 I’m currently working at "4yousee". It is a digital signage technology company.
 - 💬 Let's talk about Data Science, Statistics, Python and Machine Learning :grinning:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/), [Medium](https://pandascouple.medium.com/) and [Instagram](https://www.instagram.com/pandas_couple/).
 ***
