@@ -7,7 +7,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/v%C3%ADtor-beltr%C3%A3o-56a912178/), [Medium](https://pandascouple.medium.com/) and [Instagram](https://www.instagram.com/pandas_couple/).
 ***
 
-#### Skills
+#### Skills:
 
 **I have a strong background in:** Statistics, Python, SQL, DataViz, Machine Learning, Deep Learning and MLOps.
 ***
