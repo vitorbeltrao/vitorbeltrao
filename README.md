@@ -21,20 +21,11 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 **Machine Learning - Supervised Learning:**
 
-* [Medical Insurance Forecast](https://github.com/vitorbeltrao/Medical_Insurance_Forecast)
-* [NLP - Spam Classifier](https://github.com/vitorbeltrao/NLP_Spam_Classifier)
-* [NLP - Disaster Response Classifier](https://github.com/vitorbeltrao/NLP-Disaster-Response)
-* [Smarter Pricing for Airbnb](https://github.com/vitorbeltrao/Smarter-Pricing-Airbnb)
-* [Customer Churn Model](https://github.com/vitorbeltrao/customer_churn)
+* [Dynamic Risk Assessment System](https://github.com/vitorbeltrao/risk_assessment)
 
-**Machine Learning - Unsupervised Learning:**
+**Data Engineering:**
 
-* [Clustering Customers](https://github.com/vitorbeltrao/Clustering_Customers)
-
-**Deep Learning:**
-
-* [Time Series - Passengers Forecast](https://github.com/vitorbeltrao/TimeSeries_Passenger_Forecast)
-* [Computer Vision - Image Classifier](https://github.com/vitorbeltrao/Image-Classifier)
+* [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database)
 
 
 
