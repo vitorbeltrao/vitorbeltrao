@@ -25,12 +25,12 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 **Data Engineering:**
 
-* [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database)
+* [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database) - Under construction 🌱
 
 **Math Content:**
 
-* [Statistics for Data Scientists and Everyone](https://github.com/vitorbeltrao/Statistics_for_Data_Scientists)
-* [General Math for Data Scientists and Everyone]()
+* [Statistics for Data Scientists and Everyone](https://github.com/vitorbeltrao/Statistics_for_Data_Scientists) - Under construction 🌱
+* [General Math for Data Scientists and Everyone]() - Under construction 🌱
 
 
 
