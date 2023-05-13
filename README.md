@@ -25,7 +25,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 **Data Engineering:**
 
-* [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database) - Under construction 🌱
+* [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database)
 
 **Math Content:**
 
