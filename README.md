@@ -23,6 +23,10 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 * [Dynamic Risk Assessment System](https://github.com/vitorbeltrao/risk_assessment)
 
+**Deep Learning/Computer Vision:**
+
+* [Drowsiness Detection]() - Under construction 🌱
+
 **Data Engineering:**
 
 * [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database)
