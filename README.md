@@ -37,7 +37,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 * [Statistics for Data Scientists and Everyone](https://github.com/vitorbeltrao/Statistics_for_Data_Scientists) - Under construction 🌱
 * [General Math for Data Scientists and Everyone](https://github.com/vitorbeltrao/general_math) - Under construction 🌱
 * [Linear Algebra for Data Scientists and Everyone](https://github.com/vitorbeltrao/Linear_algebra) - Under construction 🌱
-* [OpenCV for Data Scientists and Everyone]()
+* [OpenCV for Data Scientists and Everyone](https://github.com/vitorbeltrao/open_cv)
 
 
 
