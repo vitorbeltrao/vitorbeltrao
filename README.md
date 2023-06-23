@@ -25,7 +25,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 **Deep Learning/Computer Vision:**
 
-* [Drowsiness Detection]() - Under construction 🌱
+* [Drowsiness Detection](https://github.com/vitorbeltrao/drowsiness_detection) - Under construction 🌱
 
 **Data Engineering:**
 
