@@ -31,7 +31,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 
 * [Populate PostgreSQL Database](https://github.com/vitorbeltrao/populate_database)
 * [NASA Data Analysis](https://github.com/vitorbeltrao/nasa_data_analysis)
-* [Detection of anomalies in cryptocurrency transaction volumes]() - Under construction 🌱
+* [Detection of anomalies in cryptocurrency transaction volumes](https://github.com/vitorbeltrao/cryptocurrency_anomaly_detection) - Under construction 🌱
 
 **Math and technical Content:**
 
