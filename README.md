@@ -26,7 +26,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 **Deep Learning/Computer Vision:**
 
 * [Drowsiness Detection](https://github.com/vitorbeltrao/drowsiness_detection)
-* [Solid Waste Classifier]() 🌱
+* [Solid Waste Classifier](https://github.com/vitorbeltrao/solid_waste_classifier) 🌱
 
 **Data Engineering:**
 
