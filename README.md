@@ -22,6 +22,7 @@ I am a Brazilian Data Scientist and Production/Civil Engineer. I combine analyti
 **Machine Learning - Supervised Learning:**
 
 * [Dynamic Risk Assessment System](https://github.com/vitorbeltrao/risk_assessment)
+* [Fraud Detection](https://github.com/vitorbeltrao/fraud-detection)
 
 **Deep Learning/Computer Vision:**
 
